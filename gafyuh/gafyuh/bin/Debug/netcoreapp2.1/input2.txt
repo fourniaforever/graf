@@ -1,0 +1,14 @@
+:Sadovaya/Sennaya/Spasskaya:
+Vladimirskaya 180
+:Pushkinskaya/Zvenigorovskaya:
+Vitebskiy_vokzal 180
+Vladimirskaya 120
+:Vitebskiy_vokzal:
+:Vladimirskaya:
+Ploshad_Nevskogo 240
+:Ploshad_Nevskogo:
+Elizarovskaya 300
+:Elizarovskaya:
+Lomonosovskaya 180
+:Lomonosovskaya:
+[True]

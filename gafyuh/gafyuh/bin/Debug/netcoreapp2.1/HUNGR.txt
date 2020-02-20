@@ -1,0 +1,13 @@
+Ishimbay:
+Salavat 1
+
+Salavat:
+Ishimbay 1
+
+Sterlitamak:
+Ufa 1
+
+Ufa:
+Sterlitamak 1
+
+False

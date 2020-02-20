@@ -1,0 +1,11 @@
+C:\Users\fourn\source\repos\gafyuh\gafyuh\obj\Debug\netcoreapp2.1\gafyuh.csprojAssemblyReference.cache
+C:\Users\fourn\source\repos\gafyuh\gafyuh\obj\Debug\netcoreapp2.1\gafyuh.csproj.CoreCompileInputs.cache
+C:\Users\fourn\source\repos\gafyuh\gafyuh\obj\Debug\netcoreapp2.1\gafyuh.AssemblyInfoInputs.cache
+C:\Users\fourn\source\repos\gafyuh\gafyuh\obj\Debug\netcoreapp2.1\gafyuh.AssemblyInfo.cs
+C:\Users\fourn\source\repos\gafyuh\gafyuh\bin\Debug\netcoreapp2.1\gafyuh.deps.json
+C:\Users\fourn\source\repos\gafyuh\gafyuh\bin\Debug\netcoreapp2.1\gafyuh.runtimeconfig.json
+C:\Users\fourn\source\repos\gafyuh\gafyuh\bin\Debug\netcoreapp2.1\gafyuh.runtimeconfig.dev.json
+C:\Users\fourn\source\repos\gafyuh\gafyuh\bin\Debug\netcoreapp2.1\gafyuh.dll
+C:\Users\fourn\source\repos\gafyuh\gafyuh\bin\Debug\netcoreapp2.1\gafyuh.pdb
+C:\Users\fourn\source\repos\gafyuh\gafyuh\obj\Debug\netcoreapp2.1\gafyuh.dll
+C:\Users\fourn\source\repos\gafyuh\gafyuh\obj\Debug\netcoreapp2.1\gafyuh.pdb

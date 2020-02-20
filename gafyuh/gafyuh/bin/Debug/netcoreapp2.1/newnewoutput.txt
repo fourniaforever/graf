@@ -1,0 +1,18 @@
+Admiralteyskaya:
+
+Dostaevskaya/Vladimirskaya:
+Pushkinskaya/Zvenigorovskaya 240
+
+Pushkinskaya/Zvenigorovskaya:
+Vitebskiy_vokzal 180
+
+Sadovaya/Sennaya/Spasskaya:
+Admiralteyskaya 120
+Dostaevskaya/Vladimirskaya 180
+
+Techologicheskiy:
+Pushkinskaya/Zvenigorovskaya 120
+
+Vitebskiy_vokzal:
+
+True
